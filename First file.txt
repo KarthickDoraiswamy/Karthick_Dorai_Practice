@@ -1,1 +1,3 @@
 First file in git for practicing
+
+Making changes in the file after pushing in the repository
